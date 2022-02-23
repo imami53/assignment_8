@@ -1,0 +1,60 @@
+main{
+    background-color:rgb(138, 7, 7);
+    border-radius: 5px;margin: 5px 20px 20px 5px;
+    padding: 10px 15px;
+}
+.time{
+    text-align: center;color: white;
+    margin: 20px 0px;
+}
+.time p{
+    color: #c7c2c2;
+    text-align: center;
+}
+figcaption{
+    color: white;
+}
+figure{
+    text-align: center;
+}
+.Image{
+    background-color: rgb(138, 7, 7);background-image: url(../Oge\ pixs7.jpg);
+    background-size: cover;background-position: center;
+    background-blend-mode:overlay ;background-attachment: fixed;
+
+    margin: 20px10px;
+}
+#start{
+    font-size: 19px;
+}
+.output{
+    width: 500px;
+    margin: 10px auto;
+    text-align: justify;color: white;
+    padding: 10px;
+}
+#start{
+    text-align: center;
+    font-size: medium;
+}
+blockquote{
+
+}
+.man{
+    margin-left: 300px;
+    color: white;
+    padding-bottom: 20px;
+}
+#up{
+    font-weight: bold;
+    color: white;
+}
+.epp{
+
+    font-size: 18px;
+    color: white;
+
+    width: 300px;
+    margin-left: 200px;
+    
+}
